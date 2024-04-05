@@ -1,0 +1,40 @@
+.navbar{
+  background-color: #5fa2fa;
+  padding: 16px 17px;
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0px;
+  right: 2%;
+  width: 40%;
+  z-index: 1000;
+
+}
+
+.nav{
+  list-style: none;
+  margin: 0px;
+  padding: 1px;
+  display: flex;
+}
+.nav-item{
+  font-size: 35px;
+ margin-right: 25px;
+ 
+
+}
+.nav-item:last-child{
+  margin-right: 0;
+}
+
+.nav-item a{
+  text-decoration: none;
+  color: white;
+}
+.nav-item:hover{
+  text-decoration: underline;
+  text-decoration-color:red;
+  
+}
+
+

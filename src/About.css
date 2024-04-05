@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.cardholder{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5%;
+    gap: 20px;
+    height: 250px;
+
+}
